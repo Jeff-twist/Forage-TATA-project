@@ -1,7 +1,7 @@
 # Forage-TATA-project
 Forage online internship with TATA
 
-**Task**
+**TASK**
 
 
 **Question 1**
